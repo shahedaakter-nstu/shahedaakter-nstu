@@ -2,7 +2,7 @@
 
 # Hello, I'm Shaheda Akter 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Computer+Vision+%26+RSA;Cryptography;AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Computer+Vision;Cryptography+%26+RSA;AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 👨‍🎓 About Me
 - 🎓 Education: MSc in Computer Science and Telecommunication Engineering  
-- 🧪 Interests:AI, and cryptography, image processing, Computer Vision
+- 🧪 Interests: AI, and cryptography, image processing, Computer Vision
 - 🛠️ Goal: To pursue an MS or Ph.D. to contribute to innovative advancements in the related field
 
 ### 🛠 Tech Stack
