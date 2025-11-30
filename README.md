@@ -20,8 +20,8 @@
 ---
 
 ### 🌟 Featured Projects
-- 🔗 [**Secure transmission via text-image steganography integrated with RSA and Modified RSA cryptography: A comparative analysis**]([https://github.com/hasanulkabir-md/api-testing-framework](https://github.com/shahedaakter-nstu/-Secure-transmission-via-text-image-steganography-integrated-with-RSA-and-Modified-RSA-cryptography)
-- 🔗 [** Arduino Based Dual Access Solar Tracker**](https://github.com/shahedaakter-nstu/Arduino-Based-Dual-Access-Solar-Tracker)
+- 🔗 [**Secure transmission via text-image steganography integrated with RSA and Modified RSA cryptography: A comparative analysis**]([https://github.com/hasanulkabir-md/api-testing-framework](https://github.com/shahedaakter-nstu/-Secure-transmission-via-text-image-steganography-integrated-with-RSA-and-Modified-RSA-cryptography])
+- 🔗 [** Arduino Based Dual Access Solar Tracker**]([https://github.com/shahedaakter-nstu/Arduino-Based-Dual-Access-Solar-Tracker])
 
 ---
 
@@ -30,8 +30,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/hasanulkabir-md](http://linkedin.com/in/shaheda-akter-245234354))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahedaakter7194@gmail.com)
 
-### 💡 AbouMotivated Computer Science student with a strong foundation in programming, AI, and cryptography, image
-processing. Experienced in research and hands-on projects, including RSA cryptography and computer vision.
-Seeking to pursue an MS or Ph.D. to contribute to innovative advancements in the field.
+### 💡 Motivated Computer Science student with a strong foundation in programming, AI, and cryptography, image processing. Experienced in research and hands-on projects, including RSA cryptography and computer vision.Seeking to pursue an MS or Ph.D. to contribute to innovative advancements in the field.
 ---
 ⭐️ From [shahedaakter-nstu](https://github.com/shahedaakter-nstu)
