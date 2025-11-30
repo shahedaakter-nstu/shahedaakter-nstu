@@ -2,7 +2,7 @@
 
 # Hello, I'm Shaheda Akter 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Deep+Reinforcement+Learning+%26+Multi-Agent+Researcher;Test+Software+Engineer;Automation+Enthusiast;AI+%26+Quality+Assurance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Computer+Vision+%26+RSA;Cryptographyr;AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,9 +20,8 @@
 ---
 
 ### 🌟 Featured Projects
-- 🔗 [**Secure transmission via text-image steganography integrated with
-RSA and Modified RSA cryptography: A comparative analysis**]([https://github.com/hasanulkabir-md/api-testing-framework](https://github.com/shahedaakter-nstu/-Secure-transmission-via-text-image-steganography-integrated-with-RSA-and-Modified-RSA-cryptography))
-- 🔗 [** Arduino Based Dual Access Solar Tracker**]([https://github.com/hasanulkabir-md/ecommerce-perf-test.git](https://github.com/shahedaakter-nstu/Arduino-Based-Dual-Access-Solar-Tracker)
+- 🔗 [**Secure transmission via text-image steganography integrated with RSA and Modified RSA cryptography: A comparative analysis**]([https://github.com/hasanulkabir-md/api-testing-framework](https://github.com/shahedaakter-nstu/-Secure-transmission-via-text-image-steganography-integrated-with-RSA-and-Modified-RSA-cryptography)
+- 🔗 [** Arduino Based Dual Access Solar Tracker**](https://github.com/shahedaakter-nstu/Arduino-Based-Dual-Access-Solar-Tracker)
 
 ---
 
