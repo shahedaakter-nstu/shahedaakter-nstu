@@ -21,8 +21,7 @@
 
 ### 🌟 Featured Projects
 - 🔗 [**Secure transmission via text-image steganography integrated with RSA and Modified RSA cryptography**](https://github.com/shahedaakter-nstu/-Secure-transmission-via-text-image-steganography-integrated-with-RSA-and-Modified-RSA-cryptography)
-- 🔗 [** Arduino Based Dual Access Solar Tracker**](https://github.com/shahedaakter-nstu/Arduino-Based-Dual-Access-Solar-Tracker)
-- - 🔗 [**QA Docs**](https://github.com/hasanulkabir-md/ecommerce-perf-test/tree/main/practice-docs) – Test plans, bug reports, compliance checklists  
+- 🔗 [**Arduino Based Dual Access Solar Tracker**](https://github.com/shahedaakter-nstu/Arduino-Based-Dual-Access-Solar-Tracker)
 
 ---
 
